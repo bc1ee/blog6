@@ -1,5 +1,5 @@
 ---
-title: 2025-04-11-RAS法的Matlab代码例子
+title: RAS法的Matlab代码例子
 date: 2025-04-11 09:57 +/-TTTT 0000
 categories: [计算机, Matlab]
 tags: [RAS, Miller&Blair]     # TAG names should always be lowercase
